@@ -6,3 +6,13 @@ class Teacher < User
     KNOWLEDGE.sample
   end
 end
+
+# tests
+# class Teacher
+  # inherits from the User class
+  #first_name
+    # has a first name
+  #last_name
+    # has a last name
+  #teach
+    # returns a random string of knowledge
